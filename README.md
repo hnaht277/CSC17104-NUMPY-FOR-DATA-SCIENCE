@@ -2,10 +2,6 @@
 
 > Dự đoán giá thuê Airbnb tại New York City sử dụng Linear Regression được implement hoàn toàn bằng NumPy
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
-[![NumPy](https://img.shields.io/badge/NumPy-1.24+-orange.svg)](https://numpy.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ---
 
 ## Mục lục
